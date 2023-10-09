@@ -1,0 +1,10 @@
+C:\Users\walru\source\repos\5_Events_PingPong\5_Events_PingPong\obj\Debug\5_Events_PingPong.csproj.AssemblyReference.cache
+C:\Users\walru\source\repos\5_Events_PingPong\5_Events_PingPong\obj\Debug\_5_Events_PingPong.Form1.resources
+C:\Users\walru\source\repos\5_Events_PingPong\5_Events_PingPong\obj\Debug\_5_Events_PingPong.Properties.Resources.resources
+C:\Users\walru\source\repos\5_Events_PingPong\5_Events_PingPong\obj\Debug\5_Events_PingPong.csproj.GenerateResource.cache
+C:\Users\walru\source\repos\5_Events_PingPong\5_Events_PingPong\obj\Debug\5_Events_PingPong.csproj.CoreCompileInputs.cache
+C:\Users\walru\source\repos\5_Events_PingPong\5_Events_PingPong\bin\Debug\5_Events_PingPong.exe.config
+C:\Users\walru\source\repos\5_Events_PingPong\5_Events_PingPong\bin\Debug\5_Events_PingPong.exe
+C:\Users\walru\source\repos\5_Events_PingPong\5_Events_PingPong\bin\Debug\5_Events_PingPong.pdb
+C:\Users\walru\source\repos\5_Events_PingPong\5_Events_PingPong\obj\Debug\5_Events_PingPong.exe
+C:\Users\walru\source\repos\5_Events_PingPong\5_Events_PingPong\obj\Debug\5_Events_PingPong.pdb
